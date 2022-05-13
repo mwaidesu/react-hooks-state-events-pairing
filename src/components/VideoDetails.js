@@ -32,7 +32,7 @@ function VideoDetails({ title, views, origin, upvotes, downvotes, comments }) {
       <h2>{title}</h2>
       <div className="info">
         <span>
-          {views} views | premiered {origin}
+          {views} Views | Uploaded Oct 26, 2018
         </span>
 
         <div>
